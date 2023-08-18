@@ -4,7 +4,7 @@ draft = false
 image = ""
 description = ""
 +++
-![](bild_mael.jpg)
+![](bild_mael-kopie.png)
 
 ## Maël Duwan
 
