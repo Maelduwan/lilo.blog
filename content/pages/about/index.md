@@ -4,7 +4,7 @@ draft = false
 image = ""
 description = ""
 +++
-![](bild_mael-kopie.png)
+![](bildschirmfoto-2023-05-10-um-14.10.08.png)
 
 ## Maël Duwan
 
