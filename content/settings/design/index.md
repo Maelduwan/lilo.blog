@@ -1,7 +1,7 @@
 +++
 headless = true
 icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+logo = "/media/bildschirmfoto-2023-05-10-um-14.10.08.png"
+image = "/media/bildschirmfoto-2023-05-10-um-14.10.08.png"
 color = "#5d9fbd"
 +++
