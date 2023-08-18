@@ -1,13 +1,13 @@
 +++
-title = "About me"
+title = "Über mich"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+## Maël Duwan
 
-mail@example.org
+mael.@yolu.ch
 
-Here should be some info about me...
+Ich bin absolut sportbegeistert, habe meine Lehre als Mediamatiker bei YOLU im Effinger (Coworking-Space) in Bern am 01.08.2023 begonnen. Ich interessiere mich für alles Mögliche und lerne sehr gerne.
