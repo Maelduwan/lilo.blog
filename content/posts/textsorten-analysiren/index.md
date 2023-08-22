@@ -3,6 +3,7 @@ title = "Textsorten analysiren"
 date = "2023-08-22"
 draft = false
 pinned = false
+image = "eric-masur-ofrs19nen1i-unsplash.jpg"
 +++
 
 
