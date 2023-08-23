@@ -4,6 +4,7 @@ date = "2023-08-22"
 draft = false
 pinned = false
 image = "eric-masur-ofrs19nen1i-unsplash.jpg"
+footnotes = "Diesen Blog habe ich für die Berufsschule erstellt."
 +++
 **Beispiel Werbe Text**
 
@@ -14,8 +15,6 @@ Textbeispiel: BEGRENZTE VERFÜGBARKEIT  TAG HEUER CARRERA SKIPPER  Automatik-Chr
 Reflexion:
 Was sie gut machen ist: Das sie nur eine begrenzte Anzahl von Stücken anbieten, denn dadurch wird das Produkt interessanter und sie können es teurer verkaufen. Was mir weniger gefällt ist: Da die Uhr limitiert ist ist sie online bereits ausverkauft.
 
-
-
 **Beispiel Image Text**
 
 ![](bildschirmfoto-2023-08-22-um-17.51.12.png)
@@ -24,10 +23,6 @@ Textbeispiel: Wenn sich Wissen, durch unser TAG Heuer Institute, und Savoir-fair
 
 Reflexion:
 Was mich am Text Anspricht: Man hat ein Gefühl von Sicherheit wenn es um Zeitmanagement geht.  Was mich ein bisschen abstösst ist: Das es ziemlich Grosskotzig tönt.
-
-
-
-
 
 **Beispiel Produkttext** 
 
