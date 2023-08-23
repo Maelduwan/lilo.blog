@@ -4,10 +4,12 @@ draft = false
 image = ""
 description = ""
 +++
+
+
 ![](bildschirmfoto-2023-05-10-um-14.10.08.png)
 
-## Maël Duwan
+## Mein Name ist Maël Duwan
 
-mael.@yolu.ch
+**Meine Interessen:** Von Kampfsport bis hin zu Minigolf, solang es Sport ist, heisse ich es Willkommen!
 
-Ich bin absolut sportbegeistert, habe meine Lehre als Mediamatiker bei YOLU im Effinger (Coworking-Space) in Bern am 01.08.2023 begonnen. Ich interessiere mich für alles Mögliche und lerne sehr gerne.
+**Meine Stärken:** Ich interessiere mich für alles Mögliche und lerne sehr gerne. Die Angst davor etwas falsch zu machen gibt es bei mir kaum. Dazu würde ich mich als guter Gesprächspartner und ziemlich Verständnisvolle Person bezeichnen.
