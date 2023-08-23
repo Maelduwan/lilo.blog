@@ -4,9 +4,7 @@ draft = false
 image = ""
 description = ""
 +++
-
-
-![](bildschirmfoto-2023-05-10-um-14.10.08.png)
+![](mael.jpg)
 
 ## Mein Name ist Maël Duwan
 
