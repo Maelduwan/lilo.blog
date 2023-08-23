@@ -4,7 +4,7 @@ date = "2023-08-22"
 draft = false
 pinned = false
 image = "eric-masur-ofrs19nen1i-unsplash.jpg"
-footnotes = "Diesen Blog habe ich für die Berufsschule erstellt."
+footnotes = "Diesen Blog habe ich für die Berufsschule (BBZ-Biel) erstellt."
 +++
 **Beispiel Werbe Text**
 
