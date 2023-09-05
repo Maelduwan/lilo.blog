@@ -19,7 +19,7 @@ Emotionen (wie ich mich fühle / was es in mir auslöst): Ich hätte ein wohlige
 
 ![](bildschirmfoto-2023-09-05-um-21.07.36-1-1-.png)
 
-Dies ist für die Zielgruppe: Eher viel Geld, Leute die sich gerne Prunkvoll anziehen. Diese Uhr ist für Leute zwischen ca. 25 - 99.
+Dies ist für die Zielgruppe: Leute mit eher viel Geld, Leute die sich gerne Prunkvoll anziehen. Diese Uhr ist für Leute zwischen ca. 25 - 99.
 
 Feature (was es ist): Es ist eine Armbanduhr. Sie ist ein Accessoire, damit kann man seine Outfits erweitern.  Man kann sehen was gerade für Zeit ist.
 
