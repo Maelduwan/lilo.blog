@@ -3,8 +3,14 @@ title = " Welche Uhr ich mir mal Kaufen will und wiso ich genau diese haben möc
 date = "2023-09-05"
 draft = true
 pinned = false
+image = "bildschirmfoto-2023-09-05-um-21.02.03.png"
 description = ""
+footnotes = "Diesen Blog habe ich für die Berufsschule (BBZ-Biel) erstellt. ***Info:*** dies ist der Blog für beide aufgaben, da sich diese überschneiden."
 +++
 ![](bildschirmfoto-2023-09-05-um-17.46.57-1-1-1-.jpg)
 
-Feature (was es ist): Es ist eine Armbanduhr. Sie ist ein Assesuare damit kann man seine Outfits erweitern. Es gibt sie in verschiedenen Versionen und Farben.
+Feature (was es ist): Es ist eine Armbanduhr. Sie ist ein Accessoire, damit kann man seine Outfits erweitern. Es gibt sie in verschiedenen Versionen und Farben. Man kann sehen was gerade für Zeit ist.
+
+Benefit es bewirkt: Diese Armbanduhr ist ein Accessoire das man mit ziemlich vielen verschiedenen Farben, von Kleidern, kombinieren und gebrauchen kann. 
+
+Emotionen (wie ich mich fühle / was es in mir auslöst): Ich hätte ein wohliges Gefühl da ich die Uhr tagen könnte die ich möchte und somit würde ich mich besser fühlen. Ich würde mich von meinem style (ausehen durch Kleider) sicherer fühlen.
