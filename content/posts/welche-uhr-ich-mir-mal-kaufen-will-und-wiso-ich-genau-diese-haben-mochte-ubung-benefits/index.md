@@ -6,7 +6,7 @@ pinned = false
 tags = ["BBZ"]
 image = "bildschirmfoto-2023-09-05-um-21.02.03.png"
 description = ""
-footnotes = "Diesen Blog habe ich für die Berufsschule (BBZ-Biel) erstellt. \n\n***Info:*** dies ist der Blog für beide aufgaben, da sich diese, bei mir, überschneiden."
+footnotes = "Diesen Blog habe ich für die Berufsschule (BBZ-Biel) erstellt."
 +++
 ![](bildschirmfoto-2023-09-05-um-17.46.57-1-1-1-.jpg)
 
