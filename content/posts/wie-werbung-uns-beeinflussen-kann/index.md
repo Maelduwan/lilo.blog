@@ -1,6 +1,6 @@
 +++
 title = "Wie Werbung uns beeinflussen kann."
-date = "2023-09-23"
+date = "2023-09-19"
 draft = false
 pinned = false
 tags = ["BBZ"]
