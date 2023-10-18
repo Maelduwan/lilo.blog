@@ -1,11 +1,14 @@
 +++
 title = "SQM Doch für was steht das?"
 date = "2023-10-18"
-draft = true
+draft = false
 pinned = false
 tags = ["BBZ"]
+image = "logan-weaver-lgnwvr-jm_xjyx-spi-unsplash.jpeg"
 footnotes = "Dies ist ein Blog für einen Auftrag der Berufsschule."
 +++
+![](logan-weaver-lgnwvr-jm_xjyx-spi-unsplash.jpeg)
+
 SQM ist eine Textformel und steht für Schmerz, Qual und Medizin. 
 
 Schmerz – wo drückt der Schuh?
