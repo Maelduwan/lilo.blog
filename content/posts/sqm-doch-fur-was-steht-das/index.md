@@ -1,6 +1,6 @@
 +++
 title = "SQM Doch für was steht das?"
-date = "2023-10-18"
+date = "2023-10-17"
 draft = true
 pinned = false
 tags = ["BBZ"]
