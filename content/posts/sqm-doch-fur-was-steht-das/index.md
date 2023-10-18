@@ -1,7 +1,7 @@
 +++
 title = "SQM Doch für was steht das?"
 date = "2023-10-18"
-draft = false
+draft = true
 pinned = false
 tags = ["BBZ"]
 image = "mittel-bildschirmfoto-2023-10-18-um-15.37.14-.jpeg"
