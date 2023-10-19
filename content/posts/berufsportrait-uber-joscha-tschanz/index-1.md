@@ -1,7 +1,7 @@
 +++
 title = "Joscha Tschanz – Kein normales Leben"
 date = "2023-10-19"
-draft = true
+draft = false
 pinned = false
 tags = []
 image = "joscha.jpg"
@@ -40,8 +40,6 @@ Joscha Tschanz wurde am 19.01.2007 in Ostermundigen geboren. Seine Eltern Sibill
 
 
 
-
-
-Dies ist mein Berufsportrait über Joscha Tschanz
+### Das Berufsportrait als PDF
 
 Artikel als PDF anzeigen: <a href="/media/berufsportrait_joscha.pdf" target="_blank">berufportrait_joscha.pdf</a>
