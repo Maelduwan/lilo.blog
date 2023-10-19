@@ -3,6 +3,7 @@ title = "Berufsportrait über Joscha Tschanz"
 date = "2023-10-19"
 draft = false
 pinned = false
+tags = []
 image = "joscha.jpg"
 +++
 ![](mittel-bildschirmfoto-2023-10-19-um-09.40.03-.jpeg)
