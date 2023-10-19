@@ -1,7 +1,7 @@
 +++
 title = "Berufsportrait über Joscha Tschanz"
 date = "2023-10-19"
-draft = false
+draft = true
 pinned = false
 image = "joscha.jpg"
 +++
