@@ -18,7 +18,6 @@ Wieso hat er sich für eine Lehre als Mediamatiker entschieden? «Schon in meine
 
 Viele Aspekte seines neuen Berufs begeistern ihn. Joscha sagt dazu: "Ich bin allgemein recht interessiert und neugierig, darum finde ich es cool, dass es so verschiedene Sachen gibt, die ich alle ausprobieren darf." Zudem interessieren ihn die Fotografie und das Filmen. Er sagt auch, dass er sehr gerne kreativ arbeite, und dass dies in diesem Job möglich sei. 
 
-
 ## AI-Tools in Joschas Leben
 
 «Ich bin sehr interessiert an AI-Tools», sagt Joscha und er unterstützt, dass diese an Schulen unterrichtet werden. Er erkennt jedoch auch potenzielle Nachteile, besonders im kreativen Bereich, wo Faulheit und der Verlust von kreativer Arbeit drohen könnten. Er befürchtet auch, dass Menschen mit der Zeit das Gefühl haben könnten, dass AI-Tools ihre Selbstständigkeit ersetzen. Obwohl er selbst AI-Tools häufig nutzt und ihre Vorteile in Bezug auf Zeitersparnis, Informationszugang und Inspiration schätzt. Weiter sagt er auch, dass sie immer noch menschliche Kreativität und Anleitung erfordern. Deshalb glaubt er nicht, dass sie unsere Jobs vollständig ersetzen werden. 
@@ -29,16 +28,15 @@ Viele Aspekte seines neuen Berufs begeistern ihn. Joscha sagt dazu: "Ich bin all
 
 Im Effinger lernte er sehr viele interessante und auch sehr hilfsbereite Menschen mit viel Wissen kennen. Daher befürwortet Joscha mehr Freiraum in der Bildung, um die Kreativität zu fördern. Er lehnt das Benotungssystem ab und würde es am liebsten abschaffen. Außerdem möchte er in der Schule eine erweiterte Informationsbeschaffung, nicht alleine durch Lehrer, sondern auch durch Experimente, Google und AI-tools.
 
-
 ## Mit der Kamera um die Welt
 
 Nach der Lehre würde er noch eine Zeit lang arbeiten. Doch dann möchte er gerne so schnell wie möglich versuchen, selbständig zu werden, im Bereich Film und Foto. Das Reisen ist einer der Träume, die er sich unbedingt verwirklichen möchte. «Vor allem», sagt er, «möchte ich etwas Unabhängiges und Freies im Thema Film machen, wo ich meine Ideen einfließen lassen kann.» Darum könnte er sich auch vorstellen, nach der Lehre in einer Filmfirma zu arbeiten.
 
 ![](joscha.jpg)
 
-Joscha Tschanz wurde am 19.01.2007 in Ostermundigen geboren. Seine Eltern Sibille Tschanz und Stephan Tschanz sind beide in sozialen Berufen tätig. Seine Mutter Sibille ist Schulleiterin in einer Spezialschule, sein Vater ist Fachmann Gesundheit bei der Spitex. Joscha hat noch einen kleineren Bruder, Dieser heisst Timo Tschanz ist 14 Jahre alt und noch in der Schule. Joscha besuchte die Schule bis zur sechsten Klasse zuerst in Stettlen und dann im Homeschooling. Nun absolviert er eine Lehre als Mediamatiker bei YOLU.
 
 
+> Joscha ist 16-jährig. Seine Eltern sind beide in sozialen Berufen tätig. Joscha hat einen kleineren Bruder, der die öffentliche Schule besucht. Joscha besuchte die Schule bis zur sechsten Klasse und wechselte dann in das Homeschooling. Nun absolviert er eine Lehre als Mediamatiker bei YOLU.
 
 ### Das Berufsportrait als PDF
 
