@@ -20,4 +20,4 @@ Für genau diese Probleme gibt es nun, von uns, eine Lösung. Unsere Armbanduhre
 
 Aufforderung:
 
-Bis am 23.12.2023 können sie von unseren Vergünstigungen Profitieren und euch selber und euren Liebsten eine Freude machen.
+Bis am 23.12.2023 kannst du von unseren Vergünstigungen Profitieren http... (die Webseite verlinken). Mach dir und deinen Liebsten nun eine Freude und hilf gleichzeitig der Umwelt.
