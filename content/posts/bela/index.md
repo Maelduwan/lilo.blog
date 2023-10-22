@@ -4,13 +4,17 @@ date = "2023-10-22"
 draft = true
 pinned = false
 +++
-Mein BELA Textbeispiel:
+## Mein BELA Textbeispiel:
 
-### Keine Zeit deiner Uhr eine neue Batterie zu verpassen?
+#### Ab sofort tickt deine Uhr auch ohne Batterie.
+
+###### Verschwende keine Zeit um deiner Uhr eine neue Batterie zu verpassen und schone zugleich unsere Umwelt.
+
+
 
 Empathie teil: 
 
-Jeden morgen aufstehen und wieder kann man nicht seine Armbanduhr anziehen. Dieses problem haben nicht nur sie, es ist schwierig ein Zeitfenster zu finden in dem man bei seiner Uhr die Batterie wechseln gehen kann. Auch wenn man noch so gerne diese Armbanduhr trägt wenn sie nicht mehr die Zeit anzeigt ist sie nicht mehr nützlich. Vielleicht wollen sie auch einfach der Umwelt helfen, indem weniger Batterien in Abfall entsorgt werden.
+Wie stressig nach dem Frühstück stellst du fest bei deiner Lieblingsarmbanduhr ist die Batterie lehr. Dieses problem hast nicht nur du, es ist schwierig, im belebten Alltag, ein Zeitfenster zu finden in dem man bei seiner Uhr die Batterie wechseln gehen kann. Auch wenn man noch so gerne diese Armbanduhr trägt wenn sie nicht mehr die Zeit anzeigt ist sie nicht mehr nützlich. Vielleicht wollen sie auch einfach der Umwelt helfen, indem weniger Batterien in Abfall entsorgt werden.
 
 Lösungsteil:
 
