@@ -1,10 +1,13 @@
 +++
 title = "BELA "
 date = "2023-10-22"
-draft = true
+draft = false
 pinned = false
+image = "amador-loureiro-bvynlchwqzs-unsplash.jpg"
 footnotes = "Dies ist ein Blog für einen Auftrag der Berufsschule."
 +++
+![](amador-loureiro-bvynlchwqzs-unsplash.jpg)
+
 ## Mein BELA Textbeispiel:
 
 #### Ab sofort tickt deine Uhr auch ohne Batterie.
