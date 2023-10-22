@@ -3,6 +3,7 @@ title = "BELA "
 date = "2023-10-22"
 draft = false
 pinned = false
+tags = ["BBZ"]
 image = "amador-loureiro-bvynlchwqzs-unsplash.jpg"
 footnotes = "Dies ist ein Blog für einen Auftrag der Berufsschule."
 +++
