@@ -10,11 +10,9 @@ pinned = false
 
 ###### Verschwende keine Zeit um deiner Uhr eine neue Batterie zu verpassen und schone zugleich unsere Umwelt.
 
-
-
 Empathie teil: 
 
-Wie stressig nach dem Frühstück stellst du fest bei deiner Lieblingsarmbanduhr ist die Batterie lehr. Dieses problem hast nicht nur du, es ist schwierig, im belebten Alltag, ein Zeitfenster zu finden in dem man bei seiner Uhr die Batterie wechseln gehen kann. Auch wenn man noch so gerne diese Armbanduhr trägt wenn sie nicht mehr die Zeit anzeigt ist sie nicht mehr nützlich. Vielleicht wollen sie auch einfach der Umwelt helfen, indem weniger Batterien in Abfall entsorgt werden.
+Wie stressig nach dem Frühstück stellst du fest bei deiner Lieblingsarmbanduhr ist die Batterie lehr. Dieses problem hast nicht nur du, es ist schwierig, im belebten Alltag, ein Zeitfenster zu finden um bei der Uhr die Batterie zu wechseln. Auch wenn man noch so gerne diese Armbanduhr trägt wenn sie die Zeit nicht mehr anzeigt ist sie kaum noch nützlich. Vielleicht wollen sie auch einfach der Umwelt helfen, indem weniger Batterien in Abfall entsorgt werden.
 
 Lösungsteil:
 
