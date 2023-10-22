@@ -12,11 +12,11 @@ pinned = false
 
 Empathie teil: 
 
-Wie stressig nach dem Frühstück stellst du fest bei deiner Lieblingsarmbanduhr ist die Batterie lehr. Dieses problem hast nicht nur du, es ist schwierig, im belebten Alltag, ein Zeitfenster zu finden um bei der Uhr die Batterie zu wechseln. Auch wenn man noch so gerne diese Armbanduhr trägt wenn sie die Zeit nicht mehr anzeigt ist sie kaum noch nützlich. Vielleicht wollen sie auch einfach der Umwelt helfen, indem weniger Batterien in Abfall entsorgt werden.
+Wie stressig nach dem Frühstück stellst du fest bei deiner Lieblingsarmbanduhr ist die Batterie lehr. Dieses problem hast nicht nur du, es ist schwierig, im belebten Alltag, ein Zeitfenster zu finden um bei der Uhr die Batterie zu wechseln. Auch wenn man noch so gerne diese Armbanduhr trägt wenn sie die Zeit nicht mehr anzeigt ist sie kaum noch nützlich. Vielleicht willst du auch einfach der Umwelt helfen, indem weniger Batterien  entsorgt werden müssen.
 
 Lösungsteil:
 
-Für genau diese Probleme gibt es nun, von uns, eine Lösung. Unsere Armbanduhren werden nicht durch eine Batterie betrieben sonder funktionieren voll automatisch.
+Für genau diese Probleme gibt es nun, von uns, eine Lösung. Unsere Armbanduhren werden nicht mehr durch eine Batterie betrieben sonder funktionieren voll automatisch.
 
 Aufforderung:
 
