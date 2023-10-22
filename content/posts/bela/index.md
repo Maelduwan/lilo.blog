@@ -1,8 +1,9 @@
 +++
 title = "BELA "
 date = "2023-10-22"
-draft = true
+draft = false
 pinned = false
+footnotes = "Dies ist ein Blog für einen Auftrag der Berufsschule."
 +++
 ## Mein BELA Textbeispiel:
 
@@ -12,7 +13,7 @@ pinned = false
 
 Empathie teil: 
 
-Wie stressig nach dem Frühstück stellst du fest bei deiner Lieblingsarmbanduhr ist die Batterie lehr. Dieses Problem hast nicht nur du, es ist schwierig, im belebten Alltag, ein Zeitfenster zu finden um bei der Uhr die Batterie zu wechseln. Auch wenn man noch so gerne diese Armbanduhr trägt wenn sie die Zeit nicht mehr anzeigt ist sie kaum noch nützlich. Vielleicht willst du auch einfach der Umwelt helfen, indem weniger Batterien  entsorgt werden müssen.
+Wie stressig nach dem Frühstück stellst du fest bei deiner Lieblingsarmbanduhr ist die Batterie leer. Dieses Problem hast nicht nur du, es ist schwierig, im belebten Alltag, ein Zeitfenster zu finden um bei der Uhr die Batterie zu wechseln. Auch wenn man noch so gerne diese Armbanduhr trägt wenn sie die Zeit nicht mehr anzeigt ist sie kaum noch nützlich. Vielleicht willst du auch einfach der Umwelt helfen, indem weniger Batterien  entsorgt werden müssen.
 
 Lösungsteil:
 
