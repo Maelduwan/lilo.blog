@@ -1,7 +1,7 @@
 +++
 title = "BELA "
 date = "2023-10-22"
-draft = false
+draft = true
 pinned = false
 footnotes = "Dies ist ein Blog für einen Auftrag der Berufsschule."
 +++
