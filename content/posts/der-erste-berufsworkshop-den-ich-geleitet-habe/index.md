@@ -15,4 +15,10 @@ Wir haben richtig coole Portraits erstellt, da wir im Studio mit professionellen
 
 ![](mittel-_ssp9916-.png)
 
-Diese zwei Bilder hat die Person die heute am Schnuppern war von mir und Joscha erstellt, es ist unglaublich was für einen risen Qualitätsunterschied ein professionelles Licht setup macht. Ich und Joscha haben schon einmal Portrait für mich und ihn erstellt doch zu dieser zeit hatten wir noch keine Ahnung wie man ein Licht setup aufbaut und auf was man sich achten sollte. Auch jetzt können wir noch kein professionelles Licht setup aufstellen aber wir wissen zumindest ca. wie es geht und auf was man schauen sollte.
+Diese zwei Bilder hat die Person die heute am Schnuppern war von mir und Joscha erstellt, Joscha hat diese Bilder dann noch ein wenig Bearbeitet. 
+
+
+
+##### Wo ich der grösste Lerneffekt hatte:
+
+Es ist unglaublich was für einen risen Qualitätsunterschied ein professionelles Licht setup macht. Ich und Joscha haben schon einmal Portrait für mich und ihn erstellt doch zu dieser zeit hatten wir noch keine Ahnung wie man ein Licht setup aufbaut und auf was man sich achten sollte. Auch jetzt können wir noch kein professionelles Licht setup aufstellen aber wir wissen zumindest ca. wie es geht und auf was man schauen sollte.
