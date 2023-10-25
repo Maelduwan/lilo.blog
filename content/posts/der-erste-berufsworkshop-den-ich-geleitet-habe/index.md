@@ -1,7 +1,7 @@
 +++
 title = "Der erste Berufsworkshop den ich geleitet habe"
 date = "2023-10-25"
-draft = true
+draft = false
 pinned = false
 image = "_ssp9895.jpg"
 +++
