@@ -7,9 +7,9 @@ image = "_ssp9895.jpg"
 +++
 ![](_ssp9895.jpg)
 
-Heute habe ich meinen ersten Berufsworkshop geleitet. Mit der Hilfe von Joscha habe ich einen ganzen tag mit einem Jugendlichen der sich für den Beruf Mediamatiker interessiert, vorbereitet und nun durchgeführt. Im vorhinein habe ich einen code programmiert den die Schnuppernden dann kopieren und danach anpassen können (während dem Workshop). Dazu habe ich mir ein ganzes Tagesprogramm mit allen Einzelheiten ausgedacht und getestet. 
+Heute habe ich zum ersten Mal einen Berufsworkshop geleitet. Mit der Hilfe von Joscha habe ich einen ganzen Tag, für Jugendliche, die sich für den Beruf Mediamatiker interessierem, vorbereitet und nun durchgeführt. Im Vorfeld habe ich einen Code programmiert. Diesen konnten die Schnuppernden dann kopieren und (während des Workshops) anpassen. Dazu habe ich mir ein ganzes Tagesprogramm mit allen Details ausgedacht und ausprobiert. 
 
-Wir haben richtig coole Portraits erstellt, da wir im Studio mit professionellen Mitteln arbeiten konnten. Eines dieser Portraits habe ich bereits als Titelbild von diesem Blog verwendet und hier sind noch zweit weitere:
+Wir haben wirklich coole Portraits gemacht. Das lag daran, dass wir im Studio mit professioneller Ausrüstung arbeiten konnten. Eines dieser Portraits habe ich bereits als Titelbild für diesen Blog verwendet und hier sind noch zwei weitere:
 
 ![](mittel-_ssp9903-.png)
 
