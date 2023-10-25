@@ -21,4 +21,8 @@ Diese zwei Bilder hat die Person die heute am Schnuppern war von mir und Joscha 
 
 ##### Wo ich der grösste Lerneffekt hatte:
 
-Es ist unglaublich was für einen risen Qualitätsunterschied ein professionelles Licht setup macht. Ich und Joscha haben schon einmal Portrait für mich und ihn erstellt doch zu dieser zeit hatten wir noch keine Ahnung wie man ein Licht setup aufbaut und auf was man sich achten sollte. Auch jetzt können wir noch kein professionelles Licht setup aufstellen aber wir wissen zumindest ca. wie es geht und auf was man schauen sollte.
+Es ist unglaublich was für einen risen Qualitätsunterschied ein professionelles Licht setup macht. Ich und Joscha haben schon einmal Portrait für mich und ihn erstellt doch zu dieser zeit hatten wir noch keine Ahnung wie man ein Licht setup aufbaut und auf was man sich achten sollte. Auch jetzt können wir noch kein professionelles Licht setup aufstellen aber wir wissen zumindest ca. wie es geht und auf was man schauen sollte. 
+
+
+
+Das war ein kleiner Einblick in den ersten Berufsworkshop, denn ich bisher geleitet habe.
