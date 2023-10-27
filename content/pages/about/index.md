@@ -4,7 +4,7 @@ draft = false
 image = ""
 description = ""
 +++
-![](mael.jpg)
+![](foto-von-mir.jpeg)
 
 ## Mein Name ist Maël Duwan
 
