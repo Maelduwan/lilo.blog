@@ -4,11 +4,12 @@ date = "2023-11-28"
 draft = false
 pinned = false
 tags = ["BBZ"]
+image = "gross-werbung-bildschirm.jpeg"
 footnotes = "Dies ist ein Blog für einen Auftrag der Berufsschule."
 +++
+![](gross-werbung-bildschirm.jpeg)
+
 ## Hier sind meine Notizen darüber, was man beachten muss wenn man einen Werbetext Schreibt.
-
-
 
 #### Schreibtechniken, die einnehmen:
 
