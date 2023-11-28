@@ -1,13 +1,12 @@
 +++
 title = "Psychologie der Werbetexten"
 date = "2023-11-28"
-draft = true
+draft = false
 pinned = false
 tags = ["BBZ"]
 footnotes = "Dies ist ein Blog für einen Auftrag der Berufsschule."
 +++
-## \
-Hier sind meine Notizen darüber, was man beachten muss wenn man einen Werbetext Schreibt
+## Hier sind meine Notizen darüber, was man beachten muss wenn man einen Werbetext Schreibt.
 
 
 
@@ -26,8 +25,6 @@ Verwenden Sie eine abwechslungsreiche Wortwahl, um Interesse zu wecken und Monot
 Sprechen Sie das Publikum so an, dass es sich mit dem Text identifizieren kann. 
 
 Gute Fragen stellen: Fragen regen zum Nachdenken an und binden den Leser ein. 
-
-
 
 #### **Schreibtechniken, die überzeugen:**
 
