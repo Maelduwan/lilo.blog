@@ -1,7 +1,7 @@
 +++
 title = "Psychologie der Werbetexten"
 date = "2023-11-28"
-draft = false
+draft = true
 pinned = false
 tags = ["BBZ"]
 image = "gross-werbung-bildschirm.jpeg"
