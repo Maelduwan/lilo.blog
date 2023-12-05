@@ -13,10 +13,14 @@ footnotes = "Dies ist ein Blog für einen Auftrag der Berufsschule."
 
 Zaht der Versicherungsnehmer den ersten Beitrag nicht rechtzeitig, sondern zu einem späteren Zeitpunkt, beginnt der Versicherungsschutz erst ab diesem Zeitpunkt, sofern der Versicherunsnehmer durch gesonderte mitteilung in Textform oder durch einen auffälligen Hinweis i Versicherungsschein auf diese Rechtsfolge aufmerksam geamcht wurde. Das gillt nicht, wenn der Versicherungsnehmer nachweist, dess er die Nichtzahlung nicht zu vertreten hat.
 
-
-
-
-
 ## Von mir Vereinfachter Text:
 
 Wenn jemand seine erste Versicherungsgebühr zu spät bezahlt, beginnt sein Versicherungsschutz auch erst dann. Aber das gilt nur, wenn er klar darüber informiert wurde. Wenn es nicht seine Schuld ist, dass die Zahlung zu spät war, gilt das nicht.
+
+
+
+Wieso wird schwer verständlich geschrieben?
+
+* Damit man genau das beschreiben kann, was man möchte.
+* Oder damit man einfach schlauer wirkt.
+* Um etwas zu verschleiern (in AGBs, z. B. bei Social-Media-Plattformen).
