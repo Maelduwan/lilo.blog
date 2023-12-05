@@ -24,3 +24,5 @@ Wieso wird schwer verständlich geschrieben?
 * Damit man genau das beschreiben kann, was man möchte.
 * Oder damit man einfach schlauer wirkt.
 * Um etwas zu verschleiern (in AGBs, z. B. bei Social-Media-Plattformen).
+* Angst vor vermeintlicher Banalität.
+* Keine Bereitschaft für Transparenz.
