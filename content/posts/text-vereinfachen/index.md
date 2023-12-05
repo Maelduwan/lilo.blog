@@ -11,7 +11,7 @@ footnotes = "Dies ist ein Blog für einen Auftrag der Berufsschule."
 
 ## Originaltext:
 
-Zaht der Versicherungsnehmer den ersten Beitrag nicht rechtzeitig, sondern zu einem späteren Zeitpunkt, beginnt der Versicherungsschutz erst ab diesem Zeitpunkt, sofern der Versicherunsnehmer durch gesonderte mitteilung in Textform oder durch einen auffälligen Hinweis i Versicherungsschein auf diese Rechtsfolge aufmerksam geamcht wurde. Das gillt nicht, wenn der Versicherungsnehmer nachweist, dess er die Nichtzahlung nicht zu vertreten hat.
+Zahlt der Versicherungsnehmer den ersten Beitrag nicht rechtzeitig, sondern zu einem späteren Zeitpunkt, beginnt der Versicherungsschutz erst ab diesem Zeitpunkt, sofern der Versicherunsnehmer durch gesonderte Mitteilung in Textform oder durch einen auffälligen Hinweis i Versicherungsschein auf diese Rechtsfolge aufmerksam gemacht wurde. Das gilt nicht, wenn der Versicherungsnehmer nachweist, dess er die Nichtzahlung nicht zu vertreten hat.
 
 ## Von mir Vereinfachter Text:
 
