@@ -1,5 +1,5 @@
 +++
-title = "Das Freitag Motivationsloch"
+title = "Das Freitag-Motivationsloch"
 date = "2023-11-24"
 draft = true
 pinned = false
