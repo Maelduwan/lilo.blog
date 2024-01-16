@@ -3,6 +3,7 @@ title = "Framings"
 date = "2024-01-16"
 draft = false
 pinned = false
+tags = ["BBZ"]
 image = "mittel-dall-e-2024-01-16-15.17.48-an-abstract-digital-illustration-representing-the-concept-of-framing-in-communication.-the-image-should-depict-a-human-figure-adjusting-the-frame-of-.jpeg"
 footnotes = "Dies ist ein Blog für einen Auftrag der Berufsschule."
 +++
