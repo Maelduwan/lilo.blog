@@ -1,5 +1,5 @@
 +++
-title = "Wo führt mich diese nur Lehre hin?"
+title = "Wo führt mich diese Lehre nur hin?"
 date = "2024-02-29"
 draft = false
 pinned = false
