@@ -7,7 +7,7 @@ image = "klein-podcastnr1-.png"
 +++
 ![](klein-podcastnr1-.png)
 
-Bei uns mit YOLU geht es gerade sehr schnell in vielen Projekten los und weiter. Eines davon ist ein Podcast-studio das wir gerade innerhalb von 3 Wochen aufgestellt haben und schon am 30. Mai die erste Kundin in unserem Studio hatten die einen Podcast aufgenommen hatte und völlig zufrieden war. 
+Bei uns mit YOLU geht es gerade sehr schnell in vielen Projekten los und weiter. Eines davon ist ein Podcast-studio das wir gerade innerhalb von 3 Wochen aufgestellt haben und schon am 30. Mai die erste Kundin in unserem Studio hatten die einen Podcast aufgenommen hatte. 
 
 Ein weiteres Projekt ist das wir für das EHB Testimonials aufgenommen haben und diese auch gerade am schneiden sind. Dies ist nicht gerade gleich gross wie mit einem Lean Startup für Podcasts mit Video durchzustarten und innerhalb von 3 Wochen ein Studio aufzubauen dieses zu testen und nochmals Verbesserungen vorzunehmen, aber es ist auch nicht gerade ein kleines Projekt denn Joscha und ich leiten das ganze Projekt eigentlich alleine (mit der Hilfe von unseren „Chefs“ im Hintergrund), auch die Kommunikation zwischen dem Kunden übernehmen wir zu fast 100%.
 
