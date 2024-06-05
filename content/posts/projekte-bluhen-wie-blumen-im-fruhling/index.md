@@ -11,7 +11,7 @@ Bei uns mit YOLU geht es gerade sehr schnell in vielen Projekten los und weiter.
 
 Ein weiteres Projekt ist das wir für das EHB Testimonials aufgenommen haben und diese auch gerade am schneiden sind. Dies ist nicht gerade gleich gross wie mit einem Lean Startup für Podcasts mit Video durchzustarten und innerhalb von 3 Wochen ein Studio aufzubauen dieses zu testen und nochmals Verbesserungen vorzunehmen, aber es ist auch nicht gerade ein kleines Projekt denn Joscha und ich leiten das ganze Projekt eigentlich alleine (mit der Hilfe von unseren „Chefs“ im Hintergrund), auch die Kommunikation zwischen dem Kunden übernehmen wir zu fast 100%.
 
-Wir haben auch noch ein Paar «Side-quests» zu tun, wie z.B. einen Socialmedia account für YOLU aufzubauen mit wöchentlichen Reels, die [Berufsschule](https://www.joschatschanz.ch/sidequest-berufsschule/), oder auch bei einem Projekt mitfiebern ([Weckuum](https://www.weckuum.ch/)) das wir erst gerade abgeschlossen haben. In diesem Projekt haben wir mit Lukas das Video für sein Crowdfunding gedreht und geschnitten. 
+Wir haben auch noch ein Paar «Side-quests» zu tun, wie z.B. einen Socialmedia account für [YOLU](https://www.instagram.com/yolumedia/) aufzubauen mit wöchentlichen Reels, die [Berufsschule](https://www.joschatschanz.ch/sidequest-berufsschule/), oder auch bei einem Projekt mitfiebern ([Weckuum](https://www.weckuum.ch/)) das wir erst gerade abgeschlossen haben. In diesem Projekt haben wir mit Lukas das Video für sein Crowdfunding gedreht und geschnitten. 
 
 **Zurück zum Podcast-Projekt:**
 
