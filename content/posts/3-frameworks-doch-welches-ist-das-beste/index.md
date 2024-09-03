@@ -411,9 +411,7 @@ Ich habe zwischenzeitlich auch mal mit ChatGPT eine art von Galerie erstellt jed
 
 ![](bildschirmfoto-2024-08-08-um-10.29.35-kopie.png "Html – Css – JavaScript (ohne Framework).")
 
-*Html – Css – JavaScript (ohne Framework).*
-
-# Code:
+*Html – Css – JavaScript (ohne Framework).* Code:
 
 ### Html Code:
 
