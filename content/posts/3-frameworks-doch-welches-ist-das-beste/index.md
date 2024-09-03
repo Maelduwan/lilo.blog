@@ -13,9 +13,15 @@ Hier ist der Angebotsteil der Webseite mit Screenshots und dem dazugehörigen Co
 
 ![](mittel-angebot-css-.png "Html – Css (ohne Framework).")
 
+*Html – Css (ohne Framework)*
+
 ![](mittel-angebot-bootstrap-.png "Html mit Bootstrap als Framework.")
 
+*Html mit Bootstrap als Framework.*
+
 ![](mittel-angebot-tialwind-.png "Html mit Tailwind als Framework.")
+
+*Html mit Tailwind als Framework.*
 
 # Code:
 
@@ -131,8 +137,6 @@ p {
 }
 ```
 
-
-
 ### Html & Bootstrap Code:
 
 ```
@@ -192,8 +196,6 @@ p {
     </section>
 ```
 
-
-
 ### Html & Tailwind Code:
 
 ```
@@ -244,15 +246,19 @@ p {
 
 Dies sind die 3 Code Elemente für die dazugehörigen Bilder. Ich finde die Tailwind Version ist die beste denn sie ist recht gut aufgeräumt und man kann sie auch einfach responsive machen (handy tauglich).
 
-
-
 Hier ist noch der Kontaktteil der Webseite:
 
 ![](mittel-kontakt-css-.png "Html – Css (ohne Framework).")
 
+*Html – Css (ohne Framework).*
+
 ![](mittel-kontakt-bootstrap-.png "Html mit Bootstrap als Framework.")
 
+*Html mit Bootstrap als Framework.*
+
 ![](mittel-kontakt-tialwind-.png "Html mit Tailwind als Framework.")
+
+*Html mit Tailwind als Framework.*
 
 # Code:
 
@@ -278,7 +284,6 @@ Hier ist noch der Kontaktteil der Webseite:
 ##### Css Code:
 
 ```
-
 .contact {
     text-align: center;
     padding: 40px;
@@ -366,8 +371,6 @@ Hier ist noch der Kontaktteil der Webseite:
     </section>
 ```
 
-
-
 ### Html & Tailwind Code:
 
 ```
@@ -404,13 +407,11 @@ Hier ist noch der Kontaktteil der Webseite:
 
 Dies sind die 3 Code Elemente für die dazugehörigen Bilder. Auch hier finde ich die Tailwind Version die beste.
 
-
-
-
-
 Ich habe zwischenzeitlich auch mal mit ChatGPT eine art von Galerie erstellt jedoch werde ich hier die von PhotoSwipe nehmen da dies auf alle Betriebssysteme und Online Plattformen ohne Probleme läuft. 
 
 ![](bildschirmfoto-2024-08-08-um-10.29.35-kopie.png "Html – Css – JavaScript (ohne Framework).")
+
+*Html – Css – JavaScript (ohne Framework).*
 
 # Code:
 
@@ -450,8 +451,6 @@ Ich habe zwischenzeitlich auch mal mit ChatGPT eine art von Galerie erstellt jed
         <a href="/setup/index.html" class="galerie-button">Infos zum Setup</a>
     </section>
 ```
-
-
 
 ### Css Code:
 
@@ -587,8 +586,6 @@ Ich habe zwischenzeitlich auch mal mit ChatGPT eine art von Galerie erstellt jed
 }
 ```
 
-
-
 ### JavaScript Code:
 
 ```
@@ -620,9 +617,6 @@ function changeImage(direction) {
     }
     document.getElementById("modalImage").src = images[currentImageIndex];
 }
-
 ```
-
-
 
 Vielleicht hast du nun nichts verstanden und möchtest dich mit dem (Programmieren) von Webseiten auseinandersetzen oder denkst «Man hätte dies so viel einfacher machen können» Doch so oder so ich hoffe ihr nehmt etwas aus diesem Blog Eintrag mit.   : )
