@@ -1,7 +1,7 @@
 +++
 title = "Eigenes Podcast-Studio aufgebaut"
 date = "2024-09-23"
-draft = true
+draft = false
 pinned = false
 image = "podcas-studio-nach-umbau.jpeg"
 +++
