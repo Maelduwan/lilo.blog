@@ -1,7 +1,7 @@
 +++
 title = "Tief in der Bildbearbeitung"
 date = "2024-12-04"
-draft = true
+draft = false
 pinned = false
 image = "klein-_i2a7466-.png"
 +++
