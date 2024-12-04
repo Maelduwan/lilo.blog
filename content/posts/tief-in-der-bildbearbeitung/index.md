@@ -7,8 +7,6 @@ image = "klein-_i2a7466-.png"
 +++
 Ich war, wie in einem vorherigen [Blog](https://www.maelduwan.ch/uberwaltigende-momente/) schon erwähnt, diese Herbstferien in Tansania auf Safari. Dort habe ich viele Fotos von Tieren aller Art erstellt. Diese Bilder habe ich dann noch in einem Zeitrahmen von ca. 35–40 Stunden bearbeitet und bin nun fertig mit allen Bildern, die ich bearbeiten wollte. Während dem Bearbeiten der Bilder habe ich sehr viel gelernt und einen Teil davon werde ich nun in diesem Blog mit euch teilen.
 
-
-
 Wichtige allgemeine Learnings zum Bearbeiten von Bildern:
 
 1. Solange man die Fotos als RAW aufnimmt, kann man die Bilder in der Post-Production noch sehr gut aufhellen und verdunkeln, auch wenn sie eigentlich zu dunkel/hell wären.
@@ -17,11 +15,7 @@ Wichtige allgemeine Learnings zum Bearbeiten von Bildern:
 4. Bei den Basic-Adjustments kann man einem Bild einen bestimmten Overall Look verleihen, während man mit den Masken Teilen vom Bild verstärkt mit der Belichtung, damit man den Fokus auf das lenken kann, wo man möchte.
 5. Unglaubliche Bilder im Internet sind wahrscheinlich, abgesehen davon, dass diese Situation wirklich geschehen ist, auch sehr stark bearbeitet, und erst das macht dieses Bild so gut, denn sonst wäre das Bild eher langweilig.
 
-
-
 Nun zu praktischen Beispielen, wie ich das Bearbeiten gelernt habe und was ich mir für Gedanken mache, während ich die Bilder am Bearbeiten bin.
-
-
 
 Die Grundlagen vom Bearbeiten von Bildern habe ich mir selber durch Üben und längerer Zeit angeeignet. Doch um dann diese Wildlife-Bilder richtig bearbeiten zu können, habe ich mir dann noch diese 2 YouTube-Videos angeschaut: 
 
@@ -29,11 +23,7 @@ Die Grundlagen vom Bearbeiten von Bildern habe ich mir selber durch Üben und l�
 
 <https://www.youtube.com/watch?v=RDXurR7ji_Y>
 
-
-
 Aber was ist jetzt eigentlich mein Workflow? Mein Workflow ist wirklich sehr ähnlich wie in einem YouTube-Video, das ich oben verlinkt habe, denn ich habe mir dort die Schritte abgeschaut, nur habe ich einen bisschen längeren Arbeitsprozess, da ich teils, wie in einem späteren Beispiel zu sehen, eine unnatürliche Lichtquelle in das Bild reinsetze.
-
-
 
 **Beispiel Nr. 1 von Bildbearbeitung:**
 
@@ -51,9 +41,13 @@ Als erstes bearbeite ich immer den Hintergrund. Dort verringere ich meistens die
 
 
 
+
+
 ![](klein-zeichenfla-che-2-.png)
 
 Als zweites habe ich bei diesem Bild die künstliche Lichtquelle hinzugefügt. Hier habe ich die Helligkeit erhöht und auch die Temperatur wärmer gemacht, damit das Bild aussieht, als ob es bei Sonnenuntergang (Golden Hour) fotografiert wurde. Auch hier habe ich wieder die Klarheit verringert, damit das Licht einen soften Touch hat und nicht zu künstlich aussieht.
+
+
 
 
 
@@ -105,9 +99,13 @@ Fertig bearbeitetes Bild sieht dann so aus.
 
 
 
+
+
 ![](klein-zeichenfla-che-1.png)
 
 Auch hier habe ich wieder mit dem Hintergrund angefangen. Und auch hier habe ich den Hintergrund dunkler gemacht, den Kontrast erhöht und die Klarheit verringert.
+
+
 
 
 
@@ -117,9 +115,13 @@ Bei diesem Bild habe ich aber als zweites das Subjekt bearbeitet. Aber auch hier
 
 
 
+
+
 ![](klein-zeichenfla-che-2.png)
 
 Bei diesem Bild gab es den Boden, den ich ein bisschen verdunkeln wollte. Dafür habe ich einen Linear Gradient erstellt und dort einfach die Helligkeit verringert.
+
+
 
 
 
@@ -129,9 +131,13 @@ Dann habe ich noch eine Vignette erstellt, damit das Auge in die Mitte geleitet 
 
 
 
+
+
 ![](klein-zeichenfla-che-5.png)
 
 Als letztes habe ich den Kopf vom Büffel noch ein wenig heller gemacht, die Klarheit erhöht und den Kontrast dort verstärkt, damit der Fokus noch mehr auf dem Kopf liegt. Bevor ich das Bild exportiert habe, habe ich noch die hellsten Stellen dort ein wenig verdunkelt, da sonst die Hörner des Büffels eher unnatürlich hell gewirkt haben.
+
+
 
 
 
@@ -159,6 +165,8 @@ Dies ist mein Workflow beschrieben und um meine ganzen Lerneffekte zusammenzufas
 
 
 Ich werde alle Bilder in den nächsten 8 Wochen auf meinem Instagram-Account veröffentlichen, falls jemand mich unterstützen möchte oder sich für meine Arbeit interessiert, geht doch gerne auch dort mal vorbeischauen: [@mael_showroom](https://www.instagram.com/mael_showroom/)
+
+
 
 
 
