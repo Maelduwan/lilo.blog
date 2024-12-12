@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "klein-_i2a7466-.png"
 +++
-Ich war, wie in einem vorherigen [Blog](https://www.maelduwan.ch/uberwaltigende-momente/) schon erwähnt, diese Herbstferien in Tansania auf Safari. Dort habe ich viele Fotos von Tieren aller Art erstellt. Diese Bilder habe ich dann noch in einem Zeitrahmen von ca. 35–40 Stunden bearbeitet und bin nun fertig mit allen Bildern, die ich bearbeiten wollte. Während dem Bearbeiten der Bilder habe ich sehr viel gelernt und einen Teil davon werde ich nun in diesem Blog mit euch teilen.
+Ich war, wie in einem vorherigen [Blog](https://www.maelduwan.ch/uberwaltigende-momente/) schon erwähnt, diese Herbstferien in Tansania auf Safari. Dort habe ich viele Fotos von Tieren aller Art erstellt. Diese Bilder habe ich dann noch in einem Zeitrahmen von ca. 45+ Stunden bearbeitet und bin nun fertig mit allen Bildern, die ich bearbeiten wollte. Während dem Bearbeiten der Bilder habe ich sehr viel gelernt und einen Teil davon werde ich nun in diesem Blog mit euch teilen.
 
 Wichtige allgemeine Learnings zum Bearbeiten von Bildern:
 
@@ -31,65 +31,33 @@ Aber was ist jetzt eigentlich mein Workflow? Mein Workflow ist wirklich sehr äh
 
 (RAW sieht das Bild so aus)
 
-
-
-
-
 ![](klein-zeichenfla-che-1-.png)
 
 Als erstes bearbeite ich immer den Hintergrund. Dort verringere ich meistens die Helligkeit, erhöhe den Kontrast und verringere die Klarheit, damit dieser einen noch stärkeren Blur bekommt, da dies hilft, den Fokus auf das Sujet zu legen.
-
-
-
-
 
 ![](klein-zeichenfla-che-2-.png)
 
 Als zweites habe ich bei diesem Bild die künstliche Lichtquelle hinzugefügt. Hier habe ich die Helligkeit erhöht und auch die Temperatur wärmer gemacht, damit das Bild aussieht, als ob es bei Sonnenuntergang (Golden Hour) fotografiert wurde. Auch hier habe ich wieder die Klarheit verringert, damit das Licht einen soften Touch hat und nicht zu künstlich aussieht.
 
-
-
-
-
 ![](klein-zeichenfla-che-3-.png)
 
 Als drittes habe ich das Subjekt ausgewählt. Bei den Zebras ist es wirklich schön, wenn man einen starken Kontrast zwischen den schwarzen und weißen Streifen auf ihrem Körper hat, deswegen habe ich als Erstes die Helligkeit allgemein leicht erhöht, doch dann auch starken Kontrast eingefügt, und um diesen zu verstärken, habe ich noch die hellsten Stellen (weiße Streifen) heller gemacht und die dunkelsten Stellen (schwarze Streifen) verdunkelt. Zum Schluss habe ich noch die Klarheit erhöht, damit die Zebras auch wirklich möglichst scharf sind.
-
-
-
-
 
 ![](klein-zeichenfla-che-4-.png)
 
 Als vierten Schritt habe ich die künstliche Lichtquelle invertiert (alles andere ausgewählt als die künstliche Lichtquelle). Dort habe ich nur die Helligkeit ein bisschen verringert, damit das Bild noch mehr die Zebras mit dem Sonnenuntergang im Fokus stehen.
 
-
-
-
-
 ![](klein-zeichenfla-che-5-.png)
 
 Als fünften und zweitletzten Schritt habe ich alles rund in einem Umkreis um die Zebras ausgewählt. Diesen Bereich habe ich dann auch einfach noch ein wenig verdunkelt, damit das Auge unterbewusst auf die Zebras gelenkt wird.
-
-
-
-
 
 ![](klein-zeichenfla-che-6-.png)
 
 Zum Schluss habe ich die Augen vom Subjekt ausgewählt. Diese habe ich ein wenig erhellt und vor allem die Klarheit erhöht, damit diese nicht einfach im Bild untergehen oder unnatürlich erscheinen.
 
-
-
-
-
 ![](klein-_i2a5699-.png)
 
 Fertig bearbeitetes Bild sieht dann so aus.
-
-
-
-
 
 **Beispiel Nr. 2 von Bildbearbeitung:**
 
@@ -97,57 +65,29 @@ Fertig bearbeitetes Bild sieht dann so aus.
 
 (RAW sieht das Bild so aus)
 
-
-
-
-
 ![](klein-zeichenfla-che-1.png)
 
 Auch hier habe ich wieder mit dem Hintergrund angefangen. Und auch hier habe ich den Hintergrund dunkler gemacht, den Kontrast erhöht und die Klarheit verringert.
-
-
-
-
 
 ![](klein-zeichenfla-che-3.png)
 
 Bei diesem Bild habe ich aber als zweites das Subjekt bearbeitet. Aber auch hier habe ich wieder die gleichen Sachen wie beim letzten angepasst, einfach mit dem Unterschied, dass ich hier die hellen Stellen nicht noch heller, sondern dunkler haben wollte, deswegen habe ich die Highlights verdunkelt.
 
-
-
-
-
 ![](klein-zeichenfla-che-2.png)
 
 Bei diesem Bild gab es den Boden, den ich ein bisschen verdunkeln wollte. Dafür habe ich einen Linear Gradient erstellt und dort einfach die Helligkeit verringert.
-
-
-
-
 
 ![](klein-zeichenfla-che-4.png)
 
 Dann habe ich noch eine Vignette erstellt, damit das Auge in die Mitte geleitet wird und auf das Sujet geleitet wird.
 
-
-
-
-
 ![](klein-zeichenfla-che-5.png)
 
 Als letztes habe ich den Kopf vom Büffel noch ein wenig heller gemacht, die Klarheit erhöht und den Kontrast dort verstärkt, damit der Fokus noch mehr auf dem Kopf liegt. Bevor ich das Bild exportiert habe, habe ich noch die hellsten Stellen dort ein wenig verdunkelt, da sonst die Hörner des Büffels eher unnatürlich hell gewirkt haben.
 
-
-
-
-
 ![](klein-bearbeitet.png)
 
 Fertig bearbeitetes Bild sieht dann so aus.
-
-
-
-
 
 Dies ist mein Workflow beschrieben und um meine ganzen Lerneffekte zusammenzufassen, liste ich sie nun hier auf:
 
@@ -162,13 +102,7 @@ Dies ist mein Workflow beschrieben und um meine ganzen Lerneffekte zusammenzufas
 * Für mich herausgefunden, dass ich Lightroom Classic besser als das neue Lightroom finde.
 * Jeder, der ein Bild bearbeitet, präferiert andere Punkte, und deswegen wird das gleiche Bild von 4 verschiedenen Personen komplett verschieden bearbeitet.
 
-
-
 Ich werde alle Bilder in den nächsten 8 Wochen auf meinem Instagram-Account veröffentlichen, falls jemand mich unterstützen möchte oder sich für meine Arbeit interessiert, geht doch gerne auch dort mal vorbeischauen: [@mael_showroom](https://www.instagram.com/mael_showroom/)
-
-
-
-
 
 Ein paar meiner Lieblingsbilder von der Safari:
 
