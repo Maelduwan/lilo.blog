@@ -3,6 +3,7 @@ title = "Nun bin ich voll im System!"
 date = "2023-09-20"
 draft = false
 pinned = false
+tags = ["Schulsystem"]
 image = "bildschirmfoto-2023-09-20-um-11.43.20.png"
 +++
 ![](bildschirmfoto-2023-09-20-um-11.43.20.png)
