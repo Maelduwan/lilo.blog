@@ -1,7 +1,7 @@
 +++
 title = "5 positive Dinge der Berufsschule"
 date = "2025-01-22"
-draft = false
+draft = true
 pinned = false
 tags = ["Schulsystem"]
 image = "5_positive_punkte.png"
