@@ -3,6 +3,7 @@ title = "Vielleicht prägt mich das System doch mehr, als es mir lieb ist…"
 date = "2024-10-30"
 draft = false
 pinned = false
+tags = ["Schulsystem"]
 image = "klein-gestresstes-spiegelbild-.png"
 +++
 ![](klein-gestresstes-spiegelbild-.png)
