@@ -1,7 +1,7 @@
 +++
 title = "Wie viel Bildung steckt wirklich in der Schule?"
 date = "2025-01-23"
-draft = true
+draft = false
 pinned = false
 tags = ["Schulsystem"]
 image = "schul-kritik_nr3.jpeg"
