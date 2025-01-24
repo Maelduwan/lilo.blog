@@ -1,6 +1,6 @@
 +++
 title = "Wie viel Bildung steckt wirklich in der Schule?"
-date = "2025-01-23"
+date = "2025-01-24"
 draft = false
 pinned = false
 tags = ["Schulsystem"]
