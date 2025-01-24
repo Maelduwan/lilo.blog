@@ -30,9 +30,11 @@ Nun zu den Verhaltensweisen von vielen verschiedenen Schülern. Viele von den Be
 
 Ca. 65% der Schüller:innen lernen (wenn überhaupt) am Wochenende für ungefähr 30 min pro Prüfung die sie in der nächsten Woche schreiben müssen, meist wissen sie bis zu diesem Zeitpunkt noch nicht einmal was genau der Inhalt der Prüfung sein wird sondern nur ungefähr um welches Thema es in der Prüfung gehen wird. Es gibt immer wieder die Situation in der man Personen im Zug, hört über den Test in 40 min sprechen und sie meinen: «Ich habe die Lernziele zwar seit drei oder vier Wochen, doch angefangen sie zu lernen habe ich immer noch nicht.» auf diese Aussage kommt dann meist die Antwort: «Dann fang doch jetzt an. Besser jetzt als gar nicht.» nach dem wird wahrscheinlich für ca. 10 min gelernt und dann heisst es wieder: «Ach komm, das bringt doch eh nichts mehr. Ich höre jetzt auf mit lernen» das ganze deutet auf Bulimielernen hin. Das heisst, das man den Test schreibt und am nächsten Tag schon wieder Vergessen hat was man gelernt hat, da man das ganze nicht im Langzeitgedächtnis hat. Bulimielernen ist etwas vom unnötigsten was es gibt, jedoch ist das heutige Schulsystem auf genau dem aufgebaut ist, denn zu 90% lernt man etwas komplett theoretisch und hat keine praktische Verbindung zum Thema und deswegen bleibt das gelernte nicht im Langzeitgedächtnis, sondern man vergisst es gleich nach der Prüfung. Dazu kommt das man in der Schule viel zu wenig Zeit hat sich mit den Themen tiefgründig auseinanderzusetzen denn nach 45 oder teils 90 Minuten wechselt die Lektion und das Thema wird völlig geändert, dadurch kann man gar nicht richtig in ein Thema eintauchen und sich damit lange und tiefgründig auseinandersetzten.
 
-#### Ein Zitat das meine innere Überzeugung zu Bildung wiedergibt:
 
-*“Bildung ist etwas Bewundernswertes; aber es ist gut, sich von Zeit zu Zeit daran zu erinnern, dass das Wissenswerte nicht gelehrt werden kann.”[Oscar Wilde (Schriftsteller)](https://www.soulsaver.de/blog/kritische-zitate-ueber-das-heutige-schulsystem/)*
+
+#### Ein [Zitat](https://www.soulsaver.de/blog/kritische-zitate-ueber-das-heutige-schulsystem/) das meine innere Überzeugung zu Bildung wiedergibt:
+
+*“Bildung ist etwas Bewundernswertes; aber es ist gut, sich von Zeit zu Zeit daran zu erinnern, dass das Wissenswerte nicht gelehrt werden kann.”[Oscar Wilde (Schriftsteller)](https://de.wikipedia.org/wiki/Oscar_Wilde)*
 
 ####  
 
