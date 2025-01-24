@@ -32,6 +32,8 @@ Ca. 65% der Schüller:innen lernen (wenn überhaupt) am Wochenende für ungefäh
 
 
 
+
+
 #### Ein [Zitat](https://www.soulsaver.de/blog/kritische-zitate-ueber-das-heutige-schulsystem/) das meine innere Überzeugung zu Bildung wiedergibt:
 
 *“Bildung ist etwas Bewundernswertes; aber es ist gut, sich von Zeit zu Zeit daran zu erinnern, dass das Wissenswerte nicht gelehrt werden kann.”[Oscar Wilde (Schriftsteller)](https://de.wikipedia.org/wiki/Oscar_Wilde)*
