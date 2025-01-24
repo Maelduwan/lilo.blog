@@ -36,7 +36,7 @@ Ca. 65% der Schüller:innen lernen (wenn überhaupt) am Wochenende für ungefäh
 
 ####  
 
-Homeschooling
+#### Homeschooling
 
 An sich denke ich wäre der Ansatz gar nicht schlecht von selbständigem lernen, Vorbereitung auf eine Situation wie Corona usw. jedoch wird es nicht wirklich optimal umgesetzt. Denn über Teams 8 Stunden am Tag zu telefonieren und irgendwelche Theoretische aufgaben zu erfüllen, ist nicht gerade Zielführend. Wirklich konzentrieren kann man sich gerade in den erste 2 - 3 Lektionen denn alles spätere ist reiner Informationsüberschuss und kaum aufnehmbar, schon in der Berufsschule selbst ist dies eine grosse Herausforderung, doch im Distance-learning ist es wirklich kaum möglich sich über einen solchen Zeitraum richtig zu konzentrieren. Selbst für Personen die sich in der Schule richtig anstrengen und etwas lernen möchten ist das ein unglaublicher Kraftakt der viel zu viel Ressourcen verbraucht.
 
